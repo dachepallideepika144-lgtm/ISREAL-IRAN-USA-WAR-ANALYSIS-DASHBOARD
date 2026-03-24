@@ -52,7 +52,8 @@ Cities affected and losses
 Timeline of events
 🚀 Conclusion
 
-This dashboard highlights how data visualization can simplify complex geopolitical conflicts into understandable insights. It helps identify patterns in attacks, resource usage, and impact, making it useful for analytical and educational purposes.
+This dashboard highlights how data visualization can simplify complex geopolitical conflicts into understandable insights. 
+It helps identify patterns in attacks, resource usage, and impact, making it useful for analytical and educational purposes.
 
 🔗 Future Improvements
 
